@@ -59,7 +59,7 @@ To view interactive radar chart, open `interactive_radar_bold.html` in your brow
 
 ## ✍️ Author
 
-Created by [Your Name] for COMP4037 Research Methods project.
+Created by Jinxu Qi for COMP4037 Research Methods project.
 
 ## 🌐 License
 
