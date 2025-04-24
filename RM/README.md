@@ -67,7 +67,6 @@ Environmental indicators included:
 - Python 3.11
 - pandas
 - plotly
-- kaleido (for saving PNG)
 - Word (for reporting)
 
 ## License
